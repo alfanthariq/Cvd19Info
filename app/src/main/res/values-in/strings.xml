@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cvd19Info</string>
+    <string name="loading">Memuat …</string>
+    <string name="title">Statistik</string>
+    <string name="choose_country">Pilih negara</string>
+    <string name="totalcase">Total Kasus</string>
+    <string name="activecase">Kasus Aktif</string>
+    <string name="recovered">Sembuh</string>
+    <string name="death">Meninggal</string>
+    <string name="rasio">Rasio Kesembuhan</string>
+    <string name="affect">Tertular</string>
+    <string name="last_update">Update terakhir</string>
+    <string name="wearmask">Memakai Masker</string>
+    <string name="handwash"><![CDATA[Cuci & Bersihkan Tangan]]></string>
+    <string name="distanc">Jaga Jarak</string>
+    <string name="gagallogin">Gagal login ke akun Google</string>
+
+    <string name="token">564901329123-s105le4g1gciv4n0o2in8g5mvhpd4ppi.apps.googleusercontent.com</string>
+    <string name="logout_msg">Keluar akun …</string>
+    <string name="login_msg">Masuk dengan Google …</string>
+    <string name="fail_summary">Tidak bisa mendapatkan data</string>
+</resources>

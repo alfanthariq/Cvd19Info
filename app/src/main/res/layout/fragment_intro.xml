@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".features.intro.view.IntroFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="20dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:textColor="@color/grey_dark"
+                style="@style/CustomFontStyle.Bold"
+                android:text="Corona"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24sp"
+                android:textColor="@color/primary"
+                style="@style/CustomFontStyle.Bold"
+                android:text="Virus"/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/img_center"
+            android:layout_width="300dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:maxHeight="256dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/washhand"/>
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            style="@style/CustomFontStyle.Bold"
+            android:text="Wear a Mask"
+            android:textColor="@color/grey_dark"/>
+
+        <TextView
+            android:id="@+id/txt_caption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:textAlignment="center"
+            android:lineSpacingExtra="5dp"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac."/>
+    </LinearLayout>
+</RelativeLayout>

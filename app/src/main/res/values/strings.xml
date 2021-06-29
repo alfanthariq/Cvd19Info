@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cvd19Info</string>
+    <string name="loading">Loading …</string>
+    <string name="title">Statistics</string>
+    <string name="choose_country">Select country</string>
+    <string name="totalcase">Total Case</string>
+    <string name="activecase">Active Case</string>
+    <string name="recovered">Recovered</string>
+    <string name="death">Death</string>
+    <string name="rasio">Ratio of Recovery</string>
+    <string name="affect">Affected</string>
+    <string name="last_update">Last update</string>
+    <string name="wearmask">Wear a Mask</string>
+    <string name="handwash"><![CDATA[Hand Wash & Sanitize]]></string>
+    <string name="distanc">Pyshical Distancing</string>
+    <string name="gagallogin">Cannot login with Google</string>
+
+    <string name="token">564901329123-s105le4g1gciv4n0o2in8g5mvhpd4ppi.apps.googleusercontent.com</string>
+    <string name="logout_msg">Logging out …</string>
+    <string name="login_msg">Logging in with Google …</string>
+    <string name="fail_summary">Cannot get summary data</string>
+</resources>

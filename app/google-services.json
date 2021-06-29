@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "564901329123",
+    "project_id": "nafipersonalproject",
+    "storage_bucket": "nafipersonalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564901329123:android:9301714b34199a7ce36dd6",
+        "android_client_info": {
+          "package_name": "com.alfanthariq.cvd19info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564901329123-jg14fp05gi59jh3q0a284l0n2aqg6pfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alfanthariq.cvd19info",
+            "certificate_hash": "55e0e8f358007d06292f0d3d59773dcdfaa13206"
+          }
+        },
+        {
+          "client_id": "564901329123-s105le4g1gciv4n0o2in8g5mvhpd4ppi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9k2vkJfAODZuSWwkSksPBE2ogh7kiKO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564901329123-s105le4g1gciv4n0o2in8g5mvhpd4ppi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
