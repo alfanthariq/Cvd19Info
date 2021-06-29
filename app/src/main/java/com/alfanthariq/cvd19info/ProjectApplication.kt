@@ -7,11 +7,9 @@ import com.alfanthariq.cvd19info.di.AppModule
 import com.alfanthariq.cvd19info.di.DaggerAppComponent
 import com.alfanthariq.cvd19info.di.NetworkModule
 import com.alfanthariq.cvd19info.utils.LocalizationUtil
-import com.google.firebase.FirebaseApp
 import io.github.inflationx.calligraphy3.CalligraphyConfig
 import io.github.inflationx.calligraphy3.CalligraphyInterceptor
 import io.github.inflationx.viewpump.ViewPump
-import io.github.inflationx.viewpump.ViewPumpContextWrapper
 
 class ProjectApplication : Application() {
     companion object {

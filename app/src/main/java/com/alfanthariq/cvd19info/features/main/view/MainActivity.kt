@@ -18,8 +18,6 @@ import com.alfanthariq.cvd19info.features.intro.view.IntroActivity
 import com.alfanthariq.cvd19info.features.main.viewmodel.MainViewModel
 import com.alfanthariq.cvd19info.model.Countries
 import com.alfanthariq.cvd19info.utils.DateOperationUtil
-import com.google.firebase.auth.ktx.auth
-import com.google.firebase.ktx.Firebase
 import com.murgupluoglu.flagkit.FlagKit
 import com.skydoves.powerspinner.IconSpinnerAdapter
 import com.skydoves.powerspinner.IconSpinnerItem

@@ -3,10 +3,8 @@ package com.alfanthariq.cvd19info.features.intro.viewmodel
 import android.app.Activity
 import android.app.Application
 import android.content.Intent
-import android.widget.Toast
 import androidx.activity.result.ActivityResultLauncher
 import androidx.lifecycle.MutableLiveData
-import com.alfanthariq.cvd19info.R
 import com.alfanthariq.cvd19info.base.BaseViewModel
 import com.google.android.gms.auth.api.signin.GoogleSignIn
 import com.google.android.gms.auth.api.signin.GoogleSignInClient
