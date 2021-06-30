@@ -137,7 +137,7 @@ class MainActivity : BaseActivity<MainViewModel>() {
 
                                     txtLastUpdate.text = "${getString(R.string.last_update)} ${
                                         DateOperationUtil.dateStrFormat(
-                                            "yyyy-MM-dd'T'HH:mm:ss'Z'",
+                                            "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'",
                                             "dd/MM/yyyy HH:mm",
                                             selectedCountry.Date
                                         )
