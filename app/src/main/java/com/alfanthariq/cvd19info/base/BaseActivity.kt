@@ -67,4 +67,9 @@ abstract class BaseActivity<VM : BaseViewModel> : AppCompatActivity(), BaseView 
         lazy(LazyThreadSafetyMode.NONE) {
             bindingInflater.invoke(layoutInflater)
         }
+
+    override fun onStop() {
+        super.onStop()
+        hideLoadingDialog()
+    }
 }
